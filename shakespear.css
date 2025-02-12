@@ -66,3 +66,9 @@ tr {
 tr:nth-child(even) {
     background-color: darkviolet;
 }
+
+.name:hover {
+    border-style: solid;
+    text-shadow: 2px 2px purple;
+    filter: blur(0.5px);
+}
