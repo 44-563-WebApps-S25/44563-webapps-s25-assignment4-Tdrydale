@@ -45,3 +45,24 @@
 .robin {
     color: red;
 }
+
+table { 
+    border: solid 1px;
+    overflow: auto;
+    border-collapse: separate;
+    margin: 15px;
+    padding: 5px;
+}
+
+td, th {
+    border: dashed 2px;
+    text-align: center;
+}
+
+tr {
+    background-color: coral;
+}
+
+tr:nth-child(even) {
+    background-color: darkviolet;
+}
