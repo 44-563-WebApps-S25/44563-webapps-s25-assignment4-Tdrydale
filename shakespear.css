@@ -1,0 +1,47 @@
+.speech {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20;
+    color: black;
+}
+
+.stage-direction {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22;
+    color: black;
+    background-color: beige;
+}
+
+.stage-direction:hover {
+    background-color: aqua;
+    color: brown;
+}
+
+.name {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24;
+    color: black;
+}
+
+.falstaff {
+    color: forestgreen;
+}
+
+.host {
+    color: hotpink;
+}
+
+.bardolph {
+    color: blueviolet;
+}
+
+.nym {
+    color: navy;
+}
+
+.pistol {
+    color: peru;
+}
+
+.robin {
+    color: red;
+}
